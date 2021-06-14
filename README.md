@@ -9,10 +9,10 @@ Git repo: https://github.com/softprodigyofficial/steem-markdown-only/
 
 ## Installation
 
-`npm install steem-markdown-only`
+`npm install symbionts-steem-markdown-only`
 
 ## Usage
 
-`const steemMarkdown = require('steem-markdown-only')`
+`const steemMarkdown = require('symbionts-steem-markdown-only')`
 
 `const parsedMarkdown = steemMarkdown(markdown)`
